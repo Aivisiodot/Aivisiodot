@@ -1,6 +1,7 @@
 ## Hi there ,bonjour 👋
-Je suis français et je me perfectionne en IA, ML, deep learning...
-Ouvert pour participer à des projects pour partager nos connaissances sur Toulouse 
+Je suis français et je me perfectionne en IA, ML, deep learning, python, ollama, docker, vscodium, chatbot, assistant ...
+
+Ouvert pour participer à des projects pour partager nos connaissances sur Toulouse ou alentours.
 Vous pouvez me contacter
 
 <!--
