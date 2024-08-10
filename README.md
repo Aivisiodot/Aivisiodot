@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there ,bonjour 👋
+Je suis français et je me perfectionne en IA, ML, deep learning...
+Ouvert pour participer à des projects pour partager nos connaissances sur Toulouse 
+Vous pouvez me contacter
 
 <!--
 **Aivisiodot/Aivisiodot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
